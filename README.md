@@ -21,8 +21,9 @@ Usb media control, made for Arduino Pro Micro (or Leonardo ?) 5V
 * 10K potentiometer = A0
 
 
-** Sources: ** https://uboopenfactory.univ-brest.fr/Les-Labs/MusicLab/Projets/Arduino-Media-Keys
-         https://github.com/qwelyt/Keyboard/blob/master/Code/ModuleA/V2/ModuleA/Key.h
+** Sources: ** 
+* https://uboopenfactory.univ-brest.fr/Les-Labs/MusicLab/Projets/Arduino-Media-Keys
+* https://github.com/qwelyt/Keyboard/blob/master/Code/ModuleA/V2/ModuleA/Key.h
 
 
  To add a button to the code:
