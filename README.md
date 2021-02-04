@@ -22,7 +22,7 @@ Usb media control, made for Arduino Pro Micro (or Leonardo ?) 5V
 * 10K potentiometer = A0
 
 ![Wiring](/wiring.png)
-Format: !
+
 
 
 
