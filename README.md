@@ -20,6 +20,10 @@ Usb media control, made for Arduino Pro Micro (or Leonardo ?) 5V
 * mute_BTN = 9 -> Should be pulled down with 10k resistor to GND, and button connected to VCC.
 * 10K potentiometer = A0
 
+![Wiring](/wiring.png)
+Format: ![Alt Text](url)
+
+
 
 ** Sources: ** 
 * https://uboopenfactory.univ-brest.fr/Les-Labs/MusicLab/Projets/Arduino-Media-Keys
